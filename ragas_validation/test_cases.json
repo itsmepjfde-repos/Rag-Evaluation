@@ -1,0 +1,72 @@
+[
+  {
+    "id": "general-purpose",
+    "category": "General HR Policy",
+    "sub_category": "Document Overview",
+    "question": "What is the purpose of the HR and Benefits policy document?",
+    "ground_truth": "The document outlines the company's core human resources policies, aiming to support work-life balance, operational continuity, and employees."
+  },
+  {
+    "id": "general-acknowledgment",
+    "category": "General HR Policy",
+    "sub_category": "Employee Acknowledgment",
+    "question": "What does an employee acknowledge when signing the policy document?",
+    "ground_truth": "The employee acknowledges receiving, reading, and understanding the policies and agrees to comply with them. The company may amend the policies with due notice."
+  },
+  {
+    "id": "leave-earned-days",
+    "category": "Leave Policy",
+    "sub_category": "Leave Categories & Accrual",
+    "question": "How many days of Earned Leave are allotted annually to full-time employees?",
+    "ground_truth": "Full-time employees receive 20 days of Earned Leave annually, accrued monthly at 1.66 days."
+  },
+  {
+    "id": "leave-approval",
+    "category": "Leave Policy",
+    "sub_category": "General Leave Rules",
+    "question": "How far in advance must Earned Leave and Casual Leave requests be submitted, and where?",
+    "ground_truth": "Earned Leave and Casual Leave requests must be submitted through the HR Portal at least two weeks in advance. Approval depends on managerial discretion and team coverage."
+  },
+  {
+    "id": "maternity-eligibility",
+    "category": "Parental Leave Policy",
+    "sub_category": "Maternity Leave",
+    "question": "What maternity leave is available for the first two children, and what is the eligibility requirement?",
+    "ground_truth": "Female employees are entitled to 26 weeks of fully paid maternity leave for their first two children. They must have worked for the company for at least 80 days in the 12 months immediately before the expected delivery date."
+  },
+  {
+    "id": "paternity-leave",
+    "category": "Parental Leave Policy",
+    "sub_category": "Paternity Leave",
+    "question": "How much paternity leave is available, and when must it be used?",
+    "ground_truth": "Male employees are eligible for four weeks of fully paid paternity leave after a child's birth or legal adoption. It must be used within six months and may be taken as one block or two two-week parts with manager approval."
+  },
+  {
+    "id": "remote-schedule",
+    "category": "Remote Work Policy",
+    "sub_category": "Hybrid Work Schedule",
+    "question": "What is the weekly office and remote work schedule for employees who are not fully remote?",
+    "ground_truth": "Employees must work from their primary office at least three days per week and may work remotely up to two days per week, coordinated with their team manager."
+  },
+  {
+    "id": "remote-vpn",
+    "category": "Remote Work Policy",
+    "sub_category": "Security & Data Privacy",
+    "question": "What network security rule applies when accessing internal company resources remotely?",
+    "ground_truth": "Employees must use the company-provided VPN whenever accessing internal networks, codebases, or customer databases. Public unsecured Wi-Fi must not be used without the VPN."
+  },
+  {
+    "id": "insurance-dependents",
+    "category": "Medical Insurance Policy",
+    "sub_category": "Coverage & Dependents",
+    "question": "Which family members are automatically covered under the medical insurance policy?",
+    "ground_truth": "Coverage automatically includes the employee, their legally married spouse, and up to two dependent children under age 25."
+  },
+  {
+    "id": "insurance-reimbursement",
+    "category": "Medical Insurance Policy",
+    "sub_category": "Enrollment & Claims",
+    "question": "What must an employee submit for a non-network hospital reimbursement, and by when?",
+    "ground_truth": "The employee must pay the bill upfront and physically submit original bills, discharge summaries, and standard claim forms to the HR desk within 15 days of discharge."
+  }
+]
